@@ -19,7 +19,7 @@ Andi adalah seorang pemilik supermarket besar di salah satu kota di Indonesia. A
 5. Menerapkan prinsip Clean Code (PEP8) dalam membuat program di Python.
 6. Membuat dokumentasi Docstring di Class atau Function di program yang telah dibuat.
 7. Mengimplementasikan Data Structure, Branching dan Try Error dalam membuat program di Python.
-8. Menggunakan library sesuai dengan kebutuhan. (Tabulate)
+8. Menggunakan library sesuai dengan kebutuhan.
 ## C. Alur Code / Flowchart
 
 ![flowchart](https://user-images.githubusercontent.com/123468166/216752864-2062b52f-a72a-46de-80d3-116e38e65351.png)
